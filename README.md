@@ -3,7 +3,7 @@
 A shell script to calculate the number of requests the webserver has received per second by monitoring the access log.
 
 ## APPLICATION
-The output from the script can be integrated with firewall rules to block traffic if the number of requests exceeds a threshold.
+The output from the script can be integrated with firewall rules to block traffic if the number of requests exceeds a certain threshold.
 
 Clone the repository to your local system.
 ```s
